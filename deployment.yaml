@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: yourusername/my-hello-app:v1.0 # Use the image you pushed
+        image: mohanpothula/my-hello-app:v2.0 # Use the image you pushed
         ports:
         - containerPort: 8080
         resources:
